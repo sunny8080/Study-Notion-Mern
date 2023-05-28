@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sunny8080/Study-Notion-Mern-Backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sunny8080/Study-Notion-Mern-Frontend
