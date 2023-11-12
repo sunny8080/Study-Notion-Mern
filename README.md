@@ -4,7 +4,7 @@
 
 ## Links
 
-> #### Full Stack Website - [Click Here](https://github.com/sunny8080/Study-Notion-Mern)
+> #### Full Stack GitHub Repo - [Click Here](https://github.com/sunny8080/Study-Notion-Mern)
 >
 > #### Frontend GitHub Repo - [Click Here](https://github.com/sunny8080/Study-Notion-Mern-Frontend)
 >
