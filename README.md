@@ -8,7 +8,7 @@
 >
 > #### Frontend GitHub Repo - [https://github.com/sunny8080/Study-Notion-Mern-Frontend](https://github.com/sunny8080/Study-Notion-Mern-Frontend)
 >
-> #### Backend GitHub Repo - [Click Here](https://github.com/sunny8080/Study-Notion-Mern-Backend)
+> #### Backend GitHub Repo - [https://github.com/sunny8080/Study-Notion-Mern-Backend](https://github.com/sunny8080/Study-Notion-Mern-Backend)
 >
 > #### Frontend Live at - [https://study-notion-sunny8080.shop](https://study-notion-sunny8080.shop)
 >
