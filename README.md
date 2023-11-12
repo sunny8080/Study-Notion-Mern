@@ -6,13 +6,13 @@
 
 > #### Full Stack Website - [Click Here](https://github.com/sunny8080/Study-Notion-Mern)
 >
-> #### Frontend - [Click Here](https://github.com/sunny8080/Study-Notion-Mern-Frontend/)
+> #### Frontend - [Click Here](https://github.com/sunny8080/Study-Notion-Mern-Frontend)
 >
-> #### Backend - [Click Here](https://github.com/sunny8080/Study-Notion-Mern-Backend/)
+> #### Backend - [Click Here](https://github.com/sunny8080/Study-Notion-Mern-Backend)
 >
-> #### Frontend Live at - [Click Here](https://study-notion-mern-sunny8080.netlify.app/)
+> #### Frontend Live at - [Click Here](https://study-notion-sunny8080.shop)
 >
-> #### Backend Live at - [Click Here](https://study-notion-mern-backend-sunny8080.onrender.com/)
+> #### Backend Live at - [Click Here](https://api.study-notion-sunny8080.shop)
 
 ## Usage
 
@@ -116,7 +116,11 @@ npm run dev
 
 ## Live at
 
-The Website is live at - [https://study-notion-mern-sunny8080.netlify.app/](https://study-notion-mern-sunny8080.netlify.app/)
+The Website is live at - [https://study-notion-sunny8080.shop](https://study-notion-sunny8080.shop)
+
+>
+
+The Website is live at ( on Netlify ) - [https://study-notion-mern-sunny8080.netlify.app/](https://study-notion-mern-sunny8080.netlify.app)
 
 - Version - 1.0.0
 - License: sunny8080
