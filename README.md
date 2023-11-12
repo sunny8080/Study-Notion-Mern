@@ -4,11 +4,11 @@
 
 ## Links
 
-> #### Full Stack Website - [https://github.com/sunny8080/Study-Notion-Mern](https://github.com/sunny8080/Study-Notion-Mern)
+> #### Full Stack Website - [Click Here](https://github.com/sunny8080/Study-Notion-Mern)
 >
-> #### Frontend GitHub Repo - [https://github.com/sunny8080/Study-Notion-Mern-Frontend](https://github.com/sunny8080/Study-Notion-Mern-Frontend)
+> #### Frontend GitHub Repo - [Click Here](https://github.com/sunny8080/Study-Notion-Mern-Frontend)
 >
-> #### Backend GitHub Repo - [https://github.com/sunny8080/Study-Notion-Mern-Backend](https://github.com/sunny8080/Study-Notion-Mern-Backend)
+> #### Backend GitHub Repo - [Click Here](https://github.com/sunny8080/Study-Notion-Mern-Backend)
 >
 > #### Frontend Live at - [https://study-notion-sunny8080.shop](https://study-notion-sunny8080.shop)
 >
