@@ -10,9 +10,9 @@
 >
 > #### Backend GitHub Repo - [Click Here](https://github.com/sunny8080/Study-Notion-Mern-Backend)
 >
-> #### Frontend Live at - [https://study-notion-sunny8080.shop](https://study-notion-sunny8080.shop)
+> #### Frontend Live at - [https://studynotionsunny8080.site](https://studynotionsunny8080.site)
 >
-> #### Backend Live at - [https://api.study-notion-sunny8080.shop](https://api.study-notion-sunny8080.shop)
+> #### Backend Live at - [https://api.studynotionsunny8080.site](https://api.studynotionsunny8080.site)
 
 ## Usage
 
